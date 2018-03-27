@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bestsellers</string>
+    <string name="error_loading_list_contents">Error loading this list</string>
+    <string name="error_loading_bestseller_lists">Error loading bestseller lists</string>
+</resources>
