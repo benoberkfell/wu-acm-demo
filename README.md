@@ -6,7 +6,7 @@ This is totally quick and dirty but should be pretty illustrative of the basic c
 
 ## What's here
 
-This is a demo app for the WU ACM Hack Day to illustrate how to access a REST API using 
+This is a demo app for participants attending the WU ACM Hack Day, to illustrate how to access a REST API using 
 Retrofit and display it in a RecyclerView.
 
 This app fetches the various New York Times best seller book lists and allows you to 
